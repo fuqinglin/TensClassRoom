@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>date</key>
+		<string>3月10日</string>
+		<key>scanNumber</key>
+		<string>20</string>
+		<key>answerNumber</key>
+		<string>10</string>
+		<key>author</key>
+		<string>嘿，小白</string>
+		<key>description</key>
+		<string>Xcode中如何使用Git</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月11日</string>
+		<key>scanNumber</key>
+		<string>20</string>
+		<key>answerNumber</key>
+		<string>20</string>
+		<key>author</key>
+		<string>聚奎街路口</string>
+		<key>description</key>
+		<string>如何设置PostgreSQL的Play 2.0？</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月10日</string>
+		<key>scanNumber</key>
+		<string>100</string>
+		<key>answerNumber</key>
+		<string>20</string>
+		<key>author</key>
+		<string>和卡卡龙经理</string>
+		<key>description</key>
+		<string>在iOS中,同时从多个连接读写Sqlite数据库数据怎么弄呢？</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月20日</string>
+		<key>scanNumber</key>
+		<string>20</string>
+		<key>answerNumber</key>
+		<string>5</string>
+		<key>author</key>
+		<string>客户上班</string>
+		<key>description</key>
+		<string>如果我有一个 @property 这并不是我想要拥有支持通过一个 ivar 我只简单地省略了 @synthesize 并且手动的获取方法,但是返回了一个计算值。 不过， 现在， 因为Xcode 4.4如果我没有指</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月19日</string>
+		<key>scanNumber</key>
+		<string>50</string>
+		<key>answerNumber</key>
+		<string>10</string>
+		<key>author</key>
+		<string>黑IE李连杰</string>
+		<key>description</key>
+		<string>如何以编程方式揭示UIRefreshControl当我更新的表？ 使用[self.refreshControl beginRefreshing]让微调器设置动画但是不显示出来。</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月10日</string>
+		<key>scanNumber</key>
+		<string>20</string>
+		<key>answerNumber</key>
+		<string>10</string>
+		<key>author</key>
+		<string>快快快</string>
+		<key>description</key>
+		<string>请为我推荐如何突出显示的文本图像中的&quot; 手机&quot; 。 请帮我。 Updated:- 我想在网页以上搜索文本， 如果找到， 则文本应该突出显示的方式中具有附加的图像所示。</string>
+	</dict>
+	<dict>
+		<key>date</key>
+		<string>3月21日</string>
+		<key>scanNumber</key>
+		<string>200</string>
+		<key>answerNumber</key>
+		<string>20</string>
+		<key>author</key>
+		<string>顺丰到付</string>
+		<key>description</key>
+		<string>在UITextView ， 垂直和水平对齐， 使文本居中 ？</string>
+	</dict>
+</array>
+</plist>

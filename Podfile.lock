@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - AVOSCloud (3.2.2)
+  - AVOSCloudCrashReporting (3.2.2):
+    - AVOSCloud
+  - AVOSCloudIM (3.2.2):
+    - AVOSCloud
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.0)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - AVOSCloud
+  - AVOSCloudCrashReporting
+  - AVOSCloudIM
+  - Masonry (~> 0.6.4)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh
+  - MMDrawerController (~> 0.5.7)
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  AVOSCloud: 73eb3e7b772b84998df5fb104813c17b39b25cf3
+  AVOSCloudCrashReporting: 07e52633ad0dc2a84c310e6a5ae268f42eea5959
+  AVOSCloudIM: 3cb536dae7cecb2ae6eab5da3ef2663c6561ab39
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
+
+COCOAPODS: 0.39.0
